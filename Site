@@ -1,0 +1,7 @@
+encoding: utf-8 
+lang: en-GB 
+title: "ARchat" 
+logo: "/assets/logos/logo.svg" 
+description: "" 
+url: "https://morningfisho.github.io" 
+baseurl: "/ARchat/"
